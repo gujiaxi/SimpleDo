@@ -6,14 +6,14 @@
     android:orientation="vertical" >
 
     <AutoCompleteTextView
-        android:id="@+id/autoCompleteTextView1"
+        android:id="@+id/NoteContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/add_task_hint" />
 
     <DatePicker
-        android:id="@+id/datePicker1"
+        android:id="@+id/NoteDate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 

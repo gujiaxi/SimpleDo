@@ -8,11 +8,12 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 
 public class AboutActivity extends Activity {
-
+	
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
+        
         Button btn_ok = (Button) findViewById(R.id.btn_ok);
         OnClickListener ocl_AboutActivity = new OnClickListener() {
         	public void onClick(View v) {
