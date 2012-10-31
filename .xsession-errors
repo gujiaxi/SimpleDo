@@ -1,0 +1,385 @@
+/etc/gdm/Xsession: Beginning session setup...
+localuser:isaac being added to access control list
+/etc/gdm/Xsession: Setup done, will execute: /usr/bin/ssh-agent -- gnome-session
+GNOME_KEYRING_CONTROL=/home/isaac/.cache/keyring-3e1ZGu
+SSH_AUTH_SOCK=/home/isaac/.cache/keyring-3e1ZGu/ssh
+GNOME_KEYRING_CONTROL=/home/isaac/.cache/keyring-3e1ZGu
+SSH_AUTH_SOCK=/home/isaac/.cache/keyring-3e1ZGu/ssh
+GPG_AGENT_INFO=/home/isaac/.cache/keyring-3e1ZGu/gpg:0:1
+GNOME_KEYRING_CONTROL=/home/isaac/.cache/keyring-3e1ZGu
+SSH_AUTH_SOCK=/home/isaac/.cache/keyring-3e1ZGu/ssh
+GPG_AGENT_INFO=/home/isaac/.cache/keyring-3e1ZGu/gpg:0:1
+GNOME_KEYRING_CONTROL=/home/isaac/.cache/keyring-3e1ZGu
+SSH_AUTH_SOCK=/home/isaac/.cache/keyring-3e1ZGu/ssh
+Failed to play sound: File or data not found
+Initializing tracker-store...
+Tracker-Message: Setting up monitor for changes to config file:'/home/isaac/.config/tracker/tracker-store.cfg'
+Initializing tracker-miner-fs...
+Tracker-Message: Setting up monitor for changes to config file:'/home/isaac/.config/tracker/tracker-miner-fs.cfg'
+Starting log:
+  File:'/home/isaac/.local/share/tracker/tracker-miner-fs.log'
+** Message: applet now removed from the notification area
+Tracker-Message: Setting up monitor for changes to config file:'/home/isaac/.config/tracker/tracker-store.cfg'
+Starting log:
+  File:'/home/isaac/.local/share/tracker/tracker-store.log'
+
+(tracker-store:897): Tracker-CRITICAL **: D-Bus service name:'org.freedesktop.Tracker1' is already taken, perhaps the daemon is already running?
+
+** (nm-applet:886): WARNING **: Failed to register as an agent: (4) Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+** Message: applet now embedded in the notification area
+
+(tracker-miner-fs:904): Tracker-WARNING **: Could not find parent node for URI:'gphoto2://[usb:001,005]/'
+
+(tracker-miner-fs:904): Tracker-WARNING **: NOTE: URI themes other than 'file://' are not supported currently.
+
+(tracker-miner-fs:904): Tracker-WARNING **: Could not find parent node for URI:'gphoto2://[usb:001,005]/'
+
+(tracker-miner-fs:904): Tracker-WARNING **: NOTE: URI themes other than 'file://' are not supported currently.
+
+(tracker-miner-fs:904): Tracker-CRITICAL **: Could not set mount point in database 'urn:nepomuk:datasource:eec56587927fffa14c53b3db51883bfa', GDBus.Error:org.freedesktop.Tracker1.SparqlError.Internal: column nie:url is not unique (strerror of errno (not necessarily related): No such file or directory)
+
+(tracker-miner-fs:904): Tracker-CRITICAL **: Could not set mount point in database 'urn:nepomuk:datasource:943a17aa862216338fcf5805422df0ee', GDBus.Error:org.freedesktop.Tracker1.SparqlError.Internal: column nie:url is not unique (strerror of errno (not necessarily related): No such file or directory)
+
+(empathy:1245): folks-WARNING **: Failed to reach quiescence normally (0 backends and 10 persona stores still haven't reached quiescence). Forcing IndividualAggregator quiescence due to reaching the timeout.
+AUP timeline: Entered aup.init()                      	 (first event)
+AUP timeline: * calling prefs.init()                  	 (0)
+AUP timeline: * calling filterListener.init()         	 (2)
+AUP timeline: * calling proxy.init()                  	 (0)
+AUP timeline: * calling filterStorage.init()          	 (0)
+AUP timeline: * Entered filterStorage.loadFromDisk()  	 (0)
+AUP timeline: * * done locating patterns.ini file     	 (1)
+AUP timeline: * * done parsing file                   	 (151)
+AUP timeline: * * load complete, calling observers    	 (0)
+AUP timeline: * filterStorage.loadFromDisk() done     	 (54)
+AUP timeline: * calling policy.init()                 	 (1)
+AUP timeline: * calling synchronizer.init()           	 (1)
+AUP timeline: aup.init() done                         	 (0)
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+nsBuiltinDecoderStateMachine::RunStateMachine queuing nsBuiltinDecoder::PlaybackEnded
+nsBuiltinDecoder::PlaybackEnded mPlayState=3
+OS Determining best projection for type int (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type unsigned_int (size:  4 ) unsigned
+OS Projected as a regular number
+OS Determining best projection for type long (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type int (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type int (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type off_t (size:  4 ) signed
+OS Projected as a large signed integer
+OS Determining best projection for type size_t (size:  4 ) unsigned
+OS Projected as a large unsigned integer
+OS Determining best projection for type ssize_t (size:  4 ) signed
+OS Projected as a large signed integer
+OS Unix Could not open libc libsystem.B.dylib
+OS Unix dirent is: ctypes.StructType("dirent", [{ "padding_0": ctypes.uint8_t.array(10) }, { "d_type": ctypes.uint8_t }, { "d_name": ctypes.char.array(257) }])
+OS Attempting to declare FFI  access
+OS Function access declared
+OS Attempting to declare FFI  chdir
+OS Function chdir declared
+OS Attempting to declare FFI  chmod
+OS Function chmod declared
+OS Attempting to declare FFI  chown
+OS Function chown declared
+OS Attempting to declare FFI  copyfile
+OS Could not declare function copyfile Error: couldn't find function symbol in library
+OS Attempting to declare FFI  dup
+OS Function dup declared
+OS Attempting to declare FFI  chdir
+OS Function chdir declared
+OS Attempting to declare FFI  fchdir
+OS Function fchdir declared
+OS Attempting to declare FFI  fchown
+OS Function fchown declared
+OS Attempting to declare FFI  fsync
+OS Function fsync declared
+OS Attempting to declare FFI  getcwd
+OS Function getcwd declared
+OS Attempting to declare FFI  getwd
+OS Function getwd declared
+OS Attempting to declare FFI  get_current_dir_name
+OS Function get_current_dir_name declared
+OS Attempting to declare FFI  getwd
+OS Function getwd declared
+OS Attempting to declare FFI  fdatasync
+OS Function fdatasync declared
+OS Attempting to declare FFI  ftruncate
+OS Function ftruncate declared
+OS Attempting to declare FFI  lchown
+OS Function lchown declared
+OS Attempting to declare FFI  link
+OS Function link declared
+OS Attempting to declare FFI  lseek
+OS Function lseek declared
+OS Attempting to declare FFI  mkdir
+OS Function mkdir declared
+OS Attempting to declare FFI  mkstemp
+OS Function mkstemp declared
+OS Attempting to declare FFI  open
+OS Function open declared
+OS Attempting to declare FFI  opendir
+OS Function opendir declared
+OS Attempting to declare FFI  pread
+OS Function pread declared
+OS Attempting to declare FFI  pwrite
+OS Function pwrite declared
+OS Attempting to declare FFI  read
+OS Function read declared
+OS Attempting to declare FFI  readdir
+OS Function readdir declared
+OS Attempting to declare FFI  rename
+OS Function rename declared
+OS Attempting to declare FFI  rmdir
+OS Function rmdir declared
+OS Attempting to declare FFI  splice
+OS Function splice declared
+OS Attempting to declare FFI  strerror
+OS Function strerror declared
+OS Attempting to declare FFI  symlink
+OS Function symlink declared
+OS Attempting to declare FFI  truncate
+OS Function truncate declared
+OS Attempting to declare FFI  unlink
+OS Function unlink declared
+OS Attempting to declare FFI  write
+OS Function write declared
+OS Attempting to declare FFI  pipe
+OS Function pipe declared
+AUP timeline: Entered filterStorage.saveToDisk()      	 (first event)
+AUP timeline: * created temp file                     	 (1)
+AUP timeline: * saved filter data                     	 (19)
+AUP timeline: * saved subscription data               	 (8)
+AUP timeline: * finalized file write                  	 (0)
+AUP timeline: * created backups and renamed temp file 	 (1)
+AUP timeline: filterStorage.saveToDisk() done         	 (0)
+No bp log location saved, using default.
+[000:000] Browser XEmbed support present: 1
+[000:000] Browser toolkit is Gtk2.
+[000:001] Using Gtk2 toolkit
+[000:013] Starting client channel.
+[000:013] Warning(clientchannel.cc:435): Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:014] Warning(clientchannel.cc:410): Could not initiate GoogleTalkPlugin connection
+[000:014] GoogleTalkPlugin not running. Starting new process...
+[000:014] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:014] Warning(pluginutils.cc:268): Failed to get GoogleTalkPlugin path. Trying default.
+[000:015] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:016] Waiting for GoogleTalkPlugin to start...
+[001:104] Attempting to connect to GoogleTalkPlugin...
+[001:104] Read port file, port=34587
+[001:171] Initiated connection to GoogleTalkPlugin
+[001:206] Socket connection established
+[001:206] ScheduleOnlineCheck: Online check in 5000ms
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+[001:306] Got cookie response, socket is authorized
+[001:306] AUTHORIZED; socket handshake complete
+[006:217] HandleOnlineCheck: Starting check
+[006:217] HandleOnlineCheck: OK; current state: 3
+NOTE: child process received `Goodbye', closing down
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x300114b (Delete Res)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30000b7 (Java - Ecl)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3001aba (New Androi)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x300498f (Change Lay)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30000b7 (Java - Tes)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x300573c ()
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30000b7 (Java - Tes)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3005f0c (Reference )
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30000b7 (Java - Tes)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3007853 (Reference )
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30000b7 (Java - Tes)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3007ad2 (Reference )
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30000b7 (Java - Tes)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(gnome-shell:847): Clutter-WARNING **: clutter_actor_raise Actor 'ClutterGroup' is not in the same container as actor 'ClutterGroup'
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30122cd (Android Vi)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x301250e (Launch Opt)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30122cd (Android Vi)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30122cd (Android Vi)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x30000b7 (Java - Tes)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(gnome-screensaver:871): GLib-GIO-WARNING **: Missing callback called fullpath = /usr/share/themes/Adwaita/backgrounds/adwaita-timed.xml
+
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+AUP timeline: Entered filterStorage.saveToDisk()      	 (first event)
+AUP timeline: * created temp file                     	 (41)
+AUP timeline: * saved filter data                     	 (72)
+AUP timeline: * saved subscription data               	 (11)
+AUP timeline: * finalized file write                  	 (0)
+AUP timeline: * created backups and renamed temp file 	 (25)
+AUP timeline: filterStorage.saveToDisk() done         	 (0)
+NOTE: child process received `Goodbye', closing down
+AUP timeline: Entered aup.init()                      	 (first event)
+AUP timeline: * calling prefs.init()                  	 (0)
+AUP timeline: * calling filterListener.init()         	 (3)
+AUP timeline: * calling proxy.init()                  	 (1)
+AUP timeline: * calling filterStorage.init()          	 (0)
+AUP timeline: * Entered filterStorage.loadFromDisk()  	 (1)
+AUP timeline: * * done locating patterns.ini file     	 (0)
+AUP timeline: * * done parsing file                   	 (135)
+AUP timeline: * * load complete, calling observers    	 (0)
+AUP timeline: * filterStorage.loadFromDisk() done     	 (51)
+AUP timeline: * calling policy.init()                 	 (0)
+AUP timeline: * calling synchronizer.init()           	 (1)
+AUP timeline: aup.init() done                         	 (0)
+Window manager warning: Log level 8: meta_window_raise: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_focus: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_raise: assertion `!window->override_redirect' failed
+Window manager warning: Log level 8: meta_window_focus: assertion `!window->override_redirect' failed
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+OS Determining best projection for type int (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type unsigned_int (size:  4 ) unsigned
+OS Projected as a regular number
+OS Determining best projection for type long (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type int (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type int (size:  4 ) signed
+OS Projected as a regular number
+OS Determining best projection for type off_t (size:  4 ) signed
+OS Projected as a large signed integer
+OS Determining best projection for type size_t (size:  4 ) unsigned
+OS Projected as a large unsigned integer
+OS Determining best projection for type ssize_t (size:  4 ) signed
+OS Projected as a large signed integer
+OS Unix Could not open libc libsystem.B.dylib
+OS Unix dirent is: ctypes.StructType("dirent", [{ "padding_0": ctypes.uint8_t.array(10) }, { "d_type": ctypes.uint8_t }, { "d_name": ctypes.char.array(257) }])
+OS Attempting to declare FFI  access
+OS Function access declared
+OS Attempting to declare FFI  chdir
+OS Function chdir declared
+OS Attempting to declare FFI  chmod
+OS Function chmod declared
+OS Attempting to declare FFI  chown
+OS Function chown declared
+OS Attempting to declare FFI  copyfile
+OS Could not declare function copyfile Error: couldn't find function symbol in library
+OS Attempting to declare FFI  dup
+OS Function dup declared
+OS Attempting to declare FFI  chdir
+OS Function chdir declared
+OS Attempting to declare FFI  fchdir
+OS Function fchdir declared
+OS Attempting to declare FFI  fchown
+OS Function fchown declared
+OS Attempting to declare FFI  fsync
+OS Function fsync declared
+OS Attempting to declare FFI  getcwd
+OS Function getcwd declared
+OS Attempting to declare FFI  getwd
+OS Function getwd declared
+OS Attempting to declare FFI  get_current_dir_name
+OS Function get_current_dir_name declared
+OS Attempting to declare FFI  getwd
+OS Function getwd declared
+OS Attempting to declare FFI  fdatasync
+OS Function fdatasync declared
+OS Attempting to declare FFI  ftruncate
+OS Function ftruncate declared
+OS Attempting to declare FFI  lchown
+OS Function lchown declared
+OS Attempting to declare FFI  link
+OS Function link declared
+OS Attempting to declare FFI  lseek
+OS Function lseek declared
+OS Attempting to declare FFI  mkdir
+OS Function mkdir declared
+OS Attempting to declare FFI  mkstemp
+OS Function mkstemp declared
+OS Attempting to declare FFI  open
+OS Function open declared
+OS Attempting to declare FFI  opendir
+OS Function opendir declared
+OS Attempting to declare FFI  pread
+OS Function pread declared
+OS Attempting to declare FFI  pwrite
+OS Function pwrite declared
+OS Attempting to declare FFI  read
+OS Function read declared
+OS Attempting to declare FFI  readdir
+OS Function readdir declared
+OS Attempting to declare FFI  rename
+OS Function rename declared
+OS Attempting to declare FFI  rmdir
+OS Function rmdir declared
+OS Attempting to declare FFI  splice
+OS Function splice declared
+OS Attempting to declare FFI  strerror
+OS Function strerror declared
+OS Attempting to declare FFI  symlink
+OS Function symlink declared
+OS Attempting to declare FFI  truncate
+OS Function truncate declared
+OS Attempting to declare FFI  unlink
+OS Function unlink declared
+OS Attempting to declare FFI  write
+OS Function write declared
+OS Attempting to declare FFI  pipe
+OS Function pipe declared
+NOTE: child process received `Goodbye', closing down
+AUP timeline: Entered filterStorage.saveToDisk()      	 (first event)
+AUP timeline: * created temp file                     	 (1)
+AUP timeline: * saved filter data                     	 (14)
+AUP timeline: * saved subscription data               	 (8)
+AUP timeline: * finalized file write                  	 (0)
+AUP timeline: * created backups and renamed temp file 	 (1)
+AUP timeline: filterStorage.saveToDisk() done         	 (0)
+Window manager warning: Log level 16: gnome-shell: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+gnome-session[786]: Gdk-WARNING: gnome-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-settings-daemon:815): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-screensaver:871): Gdk-WARNING **: gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+** Message: PID 886 (we are 886) sent signal 15, shutting down...
+ICE default IO error handler doing an exit(), pid = 1261, errno = 11
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+(evolution-alarm-notify:870): GConf-WARNING **: Got Disconnected from DBus.
+
+
+(evolution-alarm-notify:870): Gkr-WARNING **: dbus connection disconnected for unknown reason
+gnome-shell-calendar-server[926]: Lost (or failed to acquire) the name org.gnome.Shell.CalendarServer - exiting
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+Received signal:15
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+Received signal:15->'Terminated'
+
+(tracker-miner-fs:904): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:904): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:904): GLib-GIO-CRITICAL **: Error while sending AddMatch() message: The connection is closed
+
+OK
+
